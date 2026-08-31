@@ -1,0 +1,20 @@
+{
+  "name": "ZXH OFFICIAL YOUTUBE VIDEO DOWNLOADER",
+  "short_name": "ZXH YT DL",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0221",
+  "theme_color": "#ff2e63",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
