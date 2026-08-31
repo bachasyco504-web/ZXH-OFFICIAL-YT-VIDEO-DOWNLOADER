@@ -1,0 +1,15 @@
+{
+  "name": "zxh-official-youtube-downloader",
+  "version": "1.0.0",
+  "description": "Backend for ZXH Official YouTube Video Downloader",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.19.2",
+    "cors": "2.8.5",
+    "dotenv": "16.4.5",
+    "@distube/ytdl-core": "4.14.4"
+  }
+}
